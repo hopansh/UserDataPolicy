@@ -32,12 +32,6 @@ Want to learn more about what we do with any information we collect? Review the 
 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 5. HOW LONG DO WE KEEP YOUR INFORMATION?
 6. HOW DO WE KEEP YOUR INFORMATION SAFE?
-7. WHAT ARE YOUR PRIVACY RIGHTS?
-8. CONTROLS FOR DO-NOT-TRACK FEATURES
-9. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
-10. DO WE MAKE UPDATES TO THIS NOTICE?
-11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 **1. WHAT INFORMATION DO WE COLLECT?**
 
@@ -109,4 +103,4 @@ When we have no ongoing legitimate business need to process your personal inform
 
 **In Short:** We aim to protect your personal information through a system of organizational and technical security measures.
 
-We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and
+We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security.
